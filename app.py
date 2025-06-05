@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Datos de tu cuenta PRTG Cloud
-PRTG_HOST = "https://ronaldgpxentic.prtg.cloud"
+PRTG_HOST = "https://reporteria.my-prtg.com"
 USERNAME = "ronaldgpxentic@gmail.com"
 PASSHASH = "3851515788"
 
